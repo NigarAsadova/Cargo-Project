@@ -1,0 +1,17 @@
+#style-1::-webkit-scrollbar-track
+{
+	border-radius: 8px;
+	background-color: hsla(0, 0%, 0%, 0.05);
+}
+
+#style-1::-webkit-scrollbar
+{
+    height: 8px;
+	background-color: #F5F5F5;
+}
+
+#style-1::-webkit-scrollbar-thumb
+{
+	border-radius: 8px;
+	background-color: hsla(0, 0%, 0%, 0.1);
+}
